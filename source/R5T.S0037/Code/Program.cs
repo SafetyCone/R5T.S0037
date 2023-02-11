@@ -12,7 +12,5 @@ namespace R5T.S0037
 
             return Task.CompletedTask;
         }
-
-        static void Create
     }
 }
